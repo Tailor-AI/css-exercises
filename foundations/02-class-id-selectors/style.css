@@ -1,0 +1,19 @@
+.paragraph_class {
+    background-color: rgb(255, 159, 159);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#element2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.fontClass{
+    font-size: 24px;
+}
+
+#element4{
+    background-color: rgb(139, 241, 139);
+    font-size: 24px;
+    font-weight: bold;
+}
